@@ -22,44 +22,58 @@ This repository contains beginner to intermediate Python projects that focus on 
 ```text
 Python_Projects/
 │
-├── README.md
-├── LICENSE
+├── README.MD
+├── License
 │
 ├── 01_Calculator/
+│   ├── README.MD
 │   └── Calculator.py
 │
 ├── 02_Number_Guessing_Game/
+│   ├── README.MD
 │   └── Number_Guessing_Game.py
 │
 ├── 03_Palindrome_Checker/
+│   ├── README.MD
 │   └── Palindrome_Checker.py
 │
 ├── 04_Prime_Number_Checker/
+│   ├── README.MD
 │   └── Prime_Number_Checker.py
 │
 ├── 05_Password_Generator/
+│   ├── README.MD
 │   └── Password_Generator.py
 │
 ├── 06_Rock_Paper_Scissors/
+│   ├── README.MD
 │   └── Rock_Paper_Scissors.py
 │
 ├── 07_Quiz_Application/
+│   ├── README.MD
 │   └── Quiz_Application.py
 │
 ├── 08_To_Do_List/
+│   ├── README.MD
 │   └── To_Do_List.py
 │
 ├── 09_Student_Management_System/
+│   ├── README.MD
 │   └── Student_Management_System.py
 │
 ├── 10_Tic_Tac_Toe/
+│   ├── README.MD
 │   └── Tic_Tac_Toe.py
 │
 ├── 11_QR_Code_Generator/
+│   ├── README.MD
 │   └── QR_Code_Generator.py
 │
-└── 12_Encoding_Decoding/
-    └── Encoding_Decoding.py
+├── 12_Encoding_Decoding/
+│   ├── README.MD
+│   └── Encoding_Decoding.py
+│
+└── .git/
 ```
 
 ---
