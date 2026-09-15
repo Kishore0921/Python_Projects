@@ -1,19 +1,21 @@
-# Number Guessing Game
+## 2?? Number Guessing Game
 
-This project is part of the Python Projects repository and demonstrates a practical Python application built for command-line use.
+A console-based game where the user attempts to guess a randomly generated number.
 
-## Features
+### Features
+
 - Random number generation
-- Guess hints
-- Attempts tracking
+- User guesses
+- Higher / lower hints
+- Attempt tracking
+- Winning condition
 
-## File
-- `Number_Guessing_Game.py`
+### Concepts Used
 
-## Run
-```bash
-python Number_Guessing_Game.py
-```
+- `random` module
+- Loops
+- Conditional Statements
+- User Input
+- Comparison Operators
 
-## Notes
-This script is designed to be run from inside the project folder.
+---

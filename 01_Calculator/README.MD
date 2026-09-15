@@ -1,21 +1,22 @@
-# Calculator
+## 1?? Calculator
 
-This project is part of the Python Projects repository and demonstrates a practical Python application built for command-line use.
+A basic command-line calculator that performs common mathematical operations.
 
-## Features
+### Operations
+
 - Addition
 - Subtraction
 - Multiplication
 - Division
 - Modulus
+- Power
 
-## File
-- `Calculator.py`
+### Concepts Used
 
-## Run
-```bash
-python Calculator.py
-```
+- Variables
+- Data Types
+- Operators
+- Conditional Statements
+- User Input
 
-## Notes
-This script is designed to be run from inside the project folder.
+---

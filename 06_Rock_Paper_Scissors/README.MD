@@ -1,19 +1,20 @@
-# Rock Paper Scissors
+## 6?? Rock Paper Scissors
 
-This project is part of the Python Projects repository and demonstrates a practical Python application built for command-line use.
+A console-based implementation of the classic Rock Paper Scissors game.
 
-## Features
-- User vs computer
-- Random choice
+### Features
+
+- User vs Computer
+- Random computer selection
+- Win / Lose / Draw detection
 - Score tracking
 
-## File
-- `Rock_Paper_Scissors.py`
+### Concepts Used
 
-## Run
-```bash
-python Rock_Paper_Scissors.py
-```
+- `random` module
+- Conditional Statements
+- Loops
+- User Input
+- Game Logic
 
-## Notes
-This script is designed to be run from inside the project folder.
+---

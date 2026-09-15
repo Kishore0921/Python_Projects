@@ -1,19 +1,21 @@
-# To-Do List
+## 8?? To-Do List
 
-This project is part of the Python Projects repository and demonstrates a practical Python application built for command-line use.
+A console-based application for managing daily tasks.
 
-## Features
+### Features
+
 - Add tasks
 - View tasks
-- Update and delete tasks
+- Update tasks
+- Delete tasks
+- Mark tasks as completed
 
-## File
-- `To_Do_List.py`
+### Concepts Used
 
-## Run
-```bash
-python To_Do_List.py
-```
+- Lists
+- Functions
+- Loops
+- Conditional Statements
+- File Handling
 
-## Notes
-This script is designed to be run from inside the project folder.
+---

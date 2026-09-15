@@ -1,19 +1,21 @@
-# Quiz Application
+## 7?? Quiz Application
 
-This project is part of the Python Projects repository and demonstrates a practical Python application built for command-line use.
+A command-line quiz application that asks questions and calculates the user's score.
 
-## Features
-- Multiple-choice quiz
-- Scoring system
+### Features
+
+- Multiple questions
+- Multiple-choice answers
+- Score calculation
 - Final result
 
-## File
-- `Quiz_Application.py`
+### Concepts Used
 
-## Run
-```bash
-python Quiz_Application.py
-```
+- Lists
+- Dictionaries
+- Loops
+- Conditional Statements
+- Functions
+- User Input
 
-## Notes
-This script is designed to be run from inside the project folder.
+---

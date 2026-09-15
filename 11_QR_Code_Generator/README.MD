@@ -1,19 +1,19 @@
-# QR Code Generator
+## 1??1?? QR Code Generator
 
-This project is part of the Python Projects repository and demonstrates a practical Python application built for command-line use.
+A Python console application that generates QR codes from user-provided information.
 
-## Features
-- Generate QR codes
+### Features
+
+- Text to QR code
+- URL to QR code
+- QR code image generation
 - User input
-- Save image output
 
-## File
-- `QR_Code_Generator.py`
+### Concepts Used
 
-## Run
-```bash
-python QR_Code_Generator.py
-```
+- Python Modules
+- User Input
+- String Handling
+- File Operations
 
-## Notes
-This script is designed to be run from inside the project folder.
+---

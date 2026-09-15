@@ -1,19 +1,20 @@
-# Password Generator
+## 5?? Password Generator
 
-This project is part of the Python Projects repository and demonstrates a practical Python application built for command-line use.
+A command-line password generator that creates random passwords based on user requirements.
 
-## Features
+### Features
+
 - Custom password length
-- Letters, digits, symbols
-- Random password creation
+- Random characters
+- Letters
+- Numbers
+- Special characters
 
-## File
-- `Password_Generator.py`
+### Concepts Used
 
-## Run
-```bash
-python Password_Generator.py
-```
+- `random` module
+- `string` module
+- Strings
+- User Input
 
-## Notes
-This script is designed to be run from inside the project folder.
+---

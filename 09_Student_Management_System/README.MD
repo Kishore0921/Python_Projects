@@ -1,19 +1,22 @@
-# Student Management System
+## 9?? Student Management System
 
-This project is part of the Python Projects repository and demonstrates a practical Python application built for command-line use.
+A console-based application for managing student information.
 
-## Features
+### Features
+
 - Add student
-- Update records
-- Search and delete
+- View students
+- Search student
+- Update student
+- Delete student
 
-## File
-- `Student_Management_System.py`
+### Concepts Used
 
-## Run
-```bash
-python Student_Management_System.py
-```
+- Dictionaries
+- Lists
+- Functions
+- OOP Concepts
+- File Handling
+- Exception Handling
 
-## Notes
-This script is designed to be run from inside the project folder.
+---

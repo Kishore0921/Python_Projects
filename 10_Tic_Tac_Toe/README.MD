@@ -1,19 +1,22 @@
-# Tic-Tac-Toe
+## ?? Tic-Tac-Toe
 
-This project is part of the Python Projects repository and demonstrates a practical Python application built for command-line use.
+A console-based two-player Tic-Tac-Toe game.
 
-## Features
-- Two-player play
+### Features
+
+- Two-player gameplay
+- Board representation
+- Turn management
 - Win detection
-- Replay option
+- Draw detection
+- Game restart
 
-## File
-- `Tic_Tac_Toe.py`
+### Concepts Used
 
-## Run
-```bash
-python Tic_Tac_Toe.py
-```
+- Lists
+- Loops
+- Functions
+- Conditional Statements
+- Game Logic
 
-## Notes
-This script is designed to be run from inside the project folder.
+---

@@ -1,19 +1,18 @@
-# Palindrome Checker
+## 3?? Palindrome Checker
 
-This project is part of the Python Projects repository and demonstrates a practical Python application built for command-line use.
+A program that checks whether a given number or string reads the same forward and backward.
 
-## Features
-- String and number checks
-- Input validation
-- Result display
+### Features
 
-## File
-- `Palindrome_Checker.py`
+- String palindrome checking
+- Number palindrome checking
+- User input validation
 
-## Run
-```bash
-python Palindrome_Checker.py
-```
+### Concepts Used
 
-## Notes
-This script is designed to be run from inside the project folder.
+- Strings
+- Slicing
+- Conditional Statements
+- User Input
+
+---

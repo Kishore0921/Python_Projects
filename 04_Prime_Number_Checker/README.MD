@@ -1,19 +1,18 @@
-# Prime Number Checker
+## 4?? Prime Number Checker
 
-This project is part of the Python Projects repository and demonstrates a practical Python application built for command-line use.
+A program that determines whether a given number is a prime number.
 
-## Features
-- Prime validation
+### Features
+
+- Prime number validation
 - User input
 - Result display
 
-## File
-- `Prime_Number_Checker.py`
+### Concepts Used
 
-## Run
-```bash
-python Prime_Number_Checker.py
-```
+- Loops
+- Conditional Statements
+- Mathematical Operations
+- User Input
 
-## Notes
-This script is designed to be run from inside the project folder.
+---

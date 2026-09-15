@@ -1,19 +1,20 @@
-# Encoding & Decoding
+## 1??2?? Encoding & Decoding
 
-This project is part of the Python Projects repository and demonstrates a practical Python application built for command-line use.
+A console-based project for encoding and decoding user-provided text.
 
-## Features
-- Encode text
-- Decode text
+### Features
+
+- Text encoding
+- Text decoding
 - User input
+- Result display
 
-## File
-- `Encoding_Decoding.py`
+### Concepts Used
 
-## Run
-```bash
-python Encoding_Decoding.py
-```
+- Strings
+- Functions
+- Conditional Statements
+- User Input
+- Encoding / Decoding Concepts
 
-## Notes
-This script is designed to be run from inside the project folder.
+---
