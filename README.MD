@@ -27,7 +27,9 @@ Python_Projects/
 │
 ├── 01_Calculator/
 │   ├── README.MD
-│   └── Calculator.py
+│   ├── Calculator1.py
+│   ├── Calculator2.py
+│   └── Calculator3.py
 │
 ├── 02_Number_Guessing_Game/
 │   ├── README.MD
@@ -190,7 +192,7 @@ python Calculator.py
 
 # 📈 Progress
 
-- [ ] 01_Calculator
+- [x] 01_Calculator
 - [ ] 02_Number_Guessing_Game
 - [ ] 03_Palindrome_Checker
 - [ ] 04_Prime_Number_Checker
