@@ -193,8 +193,8 @@ python Calculator.py
 # 📈 Progress
 
 - [x] 01_Calculator
-- [ ] 02_Number_Guessing_Game
-- [ ] 03_Palindrome_Checker
+- [x] 02_Number_Guessing_Game
+- [x] 03_Palindrome_Checker
 - [ ] 04_Prime_Number_Checker
 - [ ] 05_Password_Generator
 - [ ] 06_Rock_Paper_Scissors
