@@ -14,5 +14,4 @@ A program that determines whether a given number is a prime number.
 - Conditional Statements
 - Mathematical Operations
 - User Input
-
 ---
