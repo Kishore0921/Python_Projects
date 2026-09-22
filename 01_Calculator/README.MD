@@ -14,6 +14,10 @@ This version uses Python's `match` and `case` structure to handle the selected o
 
 It is useful because it makes multi-option logic clearer and more structured, especially when working with many fixed choices like operator symbols.
 
+#### Calculator3.py
+This version organizes the math operations into standalone, reusable functions. It is useful because it keeps the code modular, easier to test, and maintains clean separation between logic and user input.
+
+
 ### Operations
 
 - Addition
