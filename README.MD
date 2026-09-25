@@ -197,7 +197,7 @@ python Calculator.py
 - [x] 03_Palindrome_Checker
 - [x] 04_Prime_Number_Checker
 - [x] 05_Password_Generator
-- [ ] 06_Rock_Paper_Scissors
+- [x] 06_Rock_Paper_Scissors
 - [ ] 07_Quiz_Application
 - [ ] 08_To_Do_List
 - [ ] 09_Student_Management_System
