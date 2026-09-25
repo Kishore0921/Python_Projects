@@ -196,7 +196,7 @@ python Calculator.py
 - [x] 02_Number_Guessing_Game
 - [x] 03_Palindrome_Checker
 - [x] 04_Prime_Number_Checker
-- [ ] 05_Password_Generator
+- [x] 05_Password_Generator
 - [ ] 06_Rock_Paper_Scissors
 - [ ] 07_Quiz_Application
 - [ ] 08_To_Do_List
