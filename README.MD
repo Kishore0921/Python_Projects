@@ -198,7 +198,7 @@ python Calculator.py
 - [x] 04_Prime_Number_Checker
 - [x] 05_Password_Generator
 - [x] 06_Rock_Paper_Scissors
-- [ ] 07_Quiz_Application
+- [x] 07_Quiz_Application
 - [ ] 08_To_Do_List
 - [ ] 09_Student_Management_System
 - [ ] 10_Tic_Tac_Toe
