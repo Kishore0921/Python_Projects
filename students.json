@@ -1,0 +1,14 @@
+{
+    "101": {
+        "roll_no": "101",
+        "name": "Kiran",
+        "age": 20,
+        "grade": "8.1"
+    },
+    "102": {
+        "roll_no": "102",
+        "name": "Sharan",
+        "age": 19,
+        "grade": "8.99"
+    }
+}
