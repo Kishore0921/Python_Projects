@@ -199,8 +199,8 @@ python Calculator.py
 - [x] 05_Password_Generator
 - [x] 06_Rock_Paper_Scissors
 - [x] 07_Quiz_Application
-- [ ] 08_To_Do_List
-- [ ] 09_Student_Management_System
+- [x] 08_To_Do_List
+- [x] 09_Student_Management_System
 - [ ] 10_Tic_Tac_Toe
 - [ ] 11_QR_Code_Generator
 - [ ] 12_Encoding_Decoding
