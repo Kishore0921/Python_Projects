@@ -201,7 +201,7 @@ python Calculator.py
 - [x] 07_Quiz_Application
 - [x] 08_To_Do_List
 - [x] 09_Student_Management_System
-- [ ] 10_Tic_Tac_Toe
+- [x] 10_Tic_Tac_Toe
 - [ ] 11_QR_Code_Generator
 - [ ] 12_Encoding_Decoding
 
