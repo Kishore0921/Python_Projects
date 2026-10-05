@@ -1,4 +1,4 @@
-# 11?? QR Code Generator
+# QR Code Generator
 
 A Python console application that generates different types of QR codes from user-provided information.
 
