@@ -203,7 +203,7 @@ python Calculator.py
 - [x] 09_Student_Management_System
 - [x] 10_Tic_Tac_Toe
 - [x] 11_QR_Code_Generator
-- [ ] 12_Encoding_Decoding
+- [x] 12_Encoding_Decoding
 
 ---
 
